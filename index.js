@@ -37,3 +37,6 @@ const selectionSortDsc = (arr) => {
 let array = [10,24,12,37,10,40,21];
 console.log(selectionSortAsc(array));
 console.log(selectionSortDsc(array));
+
+// Time Complexity = O(n^2)
+// Space Complexity = O(1)
